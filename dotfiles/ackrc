@@ -1,0 +1,8 @@
+# ack-grep config file
+#
+--type-add=jam:is:Jamfile
+--type-add=jam:is:Jamconfig
+--type-add=jam:is:Jamrules
+--type-add=jam:is:Jambase
+--type-add=jam:is:Jamswitches
+
